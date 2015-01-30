@@ -1,0 +1,4 @@
+A crystal or crystalline solid is a solid material whose constituents, such as atoms, molecules or ions, are
+arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions.
+The scientific definition of a "crystal" is based on the microscopic arrangement of atoms inside it,
+called the crystal structure. A crystal is a solid where the atoms form a periodic arrangement.
