@@ -14,6 +14,7 @@ periodic arrangement (one by one) as ["X", "Z", "X", "Z"]. If any atoms are repe
 ![Rows](rows.svg)
 
 **Input:** Atomic lines as a list of strings.
+
 **Output:** The crystal quality as a boolean.
 
 
@@ -30,7 +31,7 @@ This is first simple data structure and here you can learn how to work with a li
 can solve by just pausing to think.
 
 **Precondition:**
-```
+```python
 1 < len(line) <= 1000
 all(ch in "XZ" for ch in line)
 ```
