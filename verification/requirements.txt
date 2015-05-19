@@ -1,0 +1,3 @@
+tornado==4.0.2
+-e git://github.com/Checkio/checkio-referee.git@dev-newlines-output#egg=checkio-referee
+
